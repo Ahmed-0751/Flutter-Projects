@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1010668070729",
+    "project_id": "healio-help",
+    "storage_bucket": "healio-help.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010668070729:android:b8db6cdddd1252660e5c98",
+        "android_client_info": {
+          "package_name": "com.example.healio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010668070729-k83246ta45k7faq1psdlmom8rcm5fbet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healio",
+            "certificate_hash": "a2c5f3021bcd1353f7729c3f59dd957cd223409c"
+          }
+        },
+        {
+          "client_id": "1010668070729-qv0b1d5nqbkt8vu2v64kekf9hm8qtdut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtlvWBImqRmS2kXKjlxj6ixeNW9u5Ps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010668070729-qv0b1d5nqbkt8vu2v64kekf9hm8qtdut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010668070729-t8k3a51ikn8drvv8caut6sggdd71urdg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
